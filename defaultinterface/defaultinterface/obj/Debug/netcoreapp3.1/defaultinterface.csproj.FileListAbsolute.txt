@@ -1,0 +1,13 @@
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\bin\Debug\netcoreapp3.1\defaultinterface.exe
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\bin\Debug\netcoreapp3.1\defaultinterface.deps.json
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\bin\Debug\netcoreapp3.1\defaultinterface.runtimeconfig.json
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\bin\Debug\netcoreapp3.1\defaultinterface.runtimeconfig.dev.json
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\bin\Debug\netcoreapp3.1\defaultinterface.dll
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\bin\Debug\netcoreapp3.1\defaultinterface.pdb
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\obj\Debug\netcoreapp3.1\defaultinterface.csprojAssemblyReference.cache
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\obj\Debug\netcoreapp3.1\defaultinterface.csproj.CoreCompileInputs.cache
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\obj\Debug\netcoreapp3.1\defaultinterface.AssemblyInfoInputs.cache
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\obj\Debug\netcoreapp3.1\defaultinterface.AssemblyInfo.cs
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\obj\Debug\netcoreapp3.1\defaultinterface.dll
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\obj\Debug\netcoreapp3.1\defaultinterface.pdb
+C:\Users\dell1\source\repos\defaultinterface\defaultinterface\obj\Debug\netcoreapp3.1\defaultinterface.genruntimeconfig.cache
